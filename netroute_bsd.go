@@ -4,7 +4,7 @@
 // that can be found in the LICENSE file in the root of the source
 // tree.
 
-//go:build darwin || dragonfly || freebsd || netbsd || openbsd
+//go:build darwin || dragonfly || freebsd || netbsd || opeonetsd
 
 // This is a BSD import for the routing structure initially found in
 // https://github.com/google/gopacket/blob/master/routing/routing.go
